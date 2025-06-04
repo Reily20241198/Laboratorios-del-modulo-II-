@@ -1,2 +1,1 @@
-# Laboratorios-del-modulo-II-
-Practica 1
+# Laboratorios-del-modulo-II- Practica 1
